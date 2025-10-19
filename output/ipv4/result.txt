@@ -1,11 +1,8 @@
 🕘️更新时间,#genre#
-2025-10-19 06:17:11,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+2025-10-19 18:19:34,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 
 📺央视频道,#genre#
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
-CETV-1,http://111.43.126.240:7777/hls/34/index.m3u8
-CETV-2,http://111.43.126.240:7777/hls/35/index.m3u8
-CETV-4,http://111.43.126.240:7777/hls/36/index.m3u8
 
 💰央视付费频道,#genre#
 风云音乐,http://dassby.qqff.top:99/live/风云音乐/index.m3u8
@@ -21,7 +18,6 @@ CETV-4,http://111.43.126.240:7777/hls/36/index.m3u8
 
 📡卫视频道,#genre#
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
-浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#mitv://generationnexxxt.com:19806/7bf4b3a65eaf421ab6d71bd8dcc4547a
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
 甘肃卫视,http://satellitepull.cnr.cn/live/wxgsws/playlist.m3u8
