@@ -1,9 +1,7 @@
 🕘️更新时间,#genre#
-2025-12-23 18:24:51,http://120.211.62.180:8000/hls/14/index.m3u8
+2025-12-24 06:20:25,http://hmfs.f3322.net:3388/hls/29/index.m3u8
 
 📺央视频道,#genre#
-CCTV-14,http://120.211.62.180:8000/hls/14/index.m3u8
-CCTV-17,http://120.211.62.180:8000/hls/17/index.m3u8
 
 💰央视付费频道,#genre#
 风云音乐,http://hmfs.f3322.net:3388/hls/29/index.m3u8
@@ -20,6 +18,7 @@ CCTV-17,http://120.211.62.180:8000/hls/17/index.m3u8
 
 📡卫视频道,#genre#
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#mitv://generationnexxxt.com:19806/7bf4b3a65eaf421ab6d71bd8dcc4547a
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 东方卫视,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
